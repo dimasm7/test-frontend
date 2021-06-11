@@ -1,0 +1,21 @@
+.container{
+    background-color: #ffcb01;
+    padding-top: 10px;
+}
+.container-logo{
+    background-color: white;
+    padding: 30px;
+}
+.text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.wrapper-logo{
+    margin:auto;
+    width: 200px;
+}
+.logo{
+    height: 50px;
+}

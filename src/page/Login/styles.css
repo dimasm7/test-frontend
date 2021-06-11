@@ -1,0 +1,36 @@
+.page {
+    padding: 50px;
+}
+.inline {
+    display: inline-block;
+}
+
+.gap{
+    margin-bottom: 25px;
+}
+.input-inline {
+    display: inline-block;
+    width: 48%;
+}
+
+.pr-1{
+    padding-right: 1%;
+}
+
+.pl-1{
+    padding-left: 1%;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 20px;
+}
+.label {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
